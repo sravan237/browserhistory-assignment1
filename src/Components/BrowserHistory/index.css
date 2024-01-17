@@ -1,0 +1,30 @@
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.object-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon {
+  height: 20px;
+  margin-left: 10px;
+}
+.paragraph {
+  color: black;
+  font-family: Roboto;
+  margin-left: 10px;
+}
+
+.domain-logo {
+  height: 30px;
+  margin-left: 30px;
+}
+.domain-paragraph {
+  color: grey;
+  font-family: Roboto;
+  margin-left: 10px;
+  font-size: 15px;
+}
